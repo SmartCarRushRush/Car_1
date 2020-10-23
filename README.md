@@ -19,3 +19,11 @@ The warehouse is an exercise project for the Xi'an Post and Telecommunication Un
 * 2020.10.21
 
   > 1. Create project files and markdown documents.
+  
+* 2020.10.22
+
+  > 1. Meetings to explain specific development processes and Git and GitHub usage.
+  > 2. Harmonize and emphasize code comment specifications.
+  > 3. Clone a GitHub repository locally and associate a local develop branch with a remote develop branch.
+  > 4. Creating the source code files for which they are responsible.
+
