@@ -27,3 +27,7 @@ The warehouse is an exercise project for the Xi'an Post and Telecommunication Un
   > 3. Clone a GitHub repository locally and associate a local develop branch with a remote develop branch.
   > 4. Creating the source code files for which they are responsible.
 
+* 2020.10.28
+
+  > 1. Complete circuit diagrams and pin assignments.
+
